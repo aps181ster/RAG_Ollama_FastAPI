@@ -1,0 +1,6 @@
+fastapi
+uvicorn 
+requests
+faiss-cpu
+ollama
+python-docx
